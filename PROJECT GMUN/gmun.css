@@ -1,0 +1,267 @@
+#logo{
+    padding-top: 40px;
+    padding-left: 30px;
+    margin-right: 20px;
+    
+
+}
+  #line{ /*#009edb */ 
+    background-color:black;
+    width: 1px;
+    height: 400px;
+    display: inline;
+    padding-left: 0.7px ;
+    padding-top: 60px;
+    margin-right: 20px;
+    
+}
+
+#mun{
+    color: #4d4d4d;
+    font-weight: 700;
+    font-size: 1.7rem;
+    letter-spacing: 0.020em;
+    font-family: "Roboto Condensed", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display: inline;
+    padding-top: 50px;
+    position: absolute;
+    top: 30px;
+}
+#box{
+    height:50px ;
+    width: 800px;
+    background-color: #4d4d4d; 
+    display: inline-block;
+    /* padding-left: 200px; */
+    position: absolute;
+    left: 1100px;
+    top: 80px;
+    color: whitesmoke;
+    font-size: 26PX;
+    
+}
+a{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    margin-right: 90px;
+    text-decoration: none;
+    color: white;
+    /* margin-left:px ; */
+    /* display: inline-block; */
+    
+}
+/* #logo2{
+    position:relative;
+    right: 170px;
+    top: 12px;
+}
+#Account{
+    position:relative;
+    right: 170px;
+    top: 12px;
+}
+
+#Mycart{
+    position:relative;
+    right: 170px;
+    top: 12px;
+}
+
+#Contactus{
+    position:relative;
+    left: 350px;
+    bottom: 16px;
+     
+} */
+#bline{
+    background-color: #009edb;
+    width: 1800px;
+    height: 8px;
+    position: absolute;
+    top: 150px;
+    left: 60px;
+}
+
+#image{
+    /* background-color:white; */
+    background-color: rgba(0, 158, 219,0.3);
+
+    height: 600px;
+    width: 1800px;
+    position: relative;
+    left: 40px;
+    top: 100px;
+    border: 10px #009edb ;
+    border-style:ridge;
+    border-radius: 10px;
+}
+#cof{
+   
+    position: relative;
+    left: 950px;
+    top: 55px;
+    border-radius: 20px;
+
+}
+#img3{
+    position: relative;
+   bottom: 450px;
+   left: 350px;
+}
+
+#text{
+    color: #4d4d4d;
+    font-size: 70px;
+    font-weight:900;
+    position: relative;
+    bottom: 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
+}
+#com{
+    
+    background-color: rgba(7, 9, 10, 0.7);
+    height: 100px;
+    width: 800px;
+    border-style:groove;
+    border-width: 3px;
+    border-color:#12cbf0;
+    color: aliceblue;
+    position: relative;
+    left: 480px;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+
+    
+    
+
+}
+#text2{
+position: relative;
+bottom: 20px;
+left: 15px;
+letter-spacing: 1px;
+}
+
+.container {
+    position: relative;
+    top: 20px;
+    left: 100px;
+    background-color: #ffffff;
+    height: 2000px;
+    width: 1700px;
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    grid-template-rows :repeat(3,1fr);
+    row-gap: 200px;
+    column-gap: 20px;
+  }
+
+  .item{
+    position: relative;
+    top: 20px;
+    left: 30px;
+    background-color: rgba(68, 66, 66,0.4);
+    height: 600px;
+    width: 500px;
+    
+  }
+.dyk{
+    color: #4d4d4d;
+}
+
+
+
+
+
+  #d1{
+    position: relative;
+   bottom: 500px;
+   left: 600px;
+    font-size: 80px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* border:  #009edb 1px solid; */
+
+
+  }
+  #boxx{
+    position: relative;
+    top: 13px;
+    left: 60px;
+    background-color: #009edb;
+    height: 15px;
+    width: 400px;
+  }
+
+  #d2{
+    font-size: 40px;
+    font-weight: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 200px;
+    bottom: 450px;
+
+  }
+
+  #img1{
+    position: relative;
+    top: 50px;
+    width:500px ;
+
+  }
+  #img2{
+    position: relative;
+    top: 60px;
+    width:500px ;
+
+  }
+  #img33{
+    position: relative;
+    top: 100px;
+    top: 50px;
+    width:500px ;
+    height: 200px;
+    /* left: 30px; */
+    
+
+  }
+  #img4{
+    position: relative;
+    top: 50px;
+    width:500px ;
+
+  }
+  #img5{
+    position: relative;
+    left: 180px;
+    top: 50px;
+    width:160px ;
+
+  } #img6{
+    position: relative;
+    left: 120px;
+    top: 50px;
+    width:250px ;
+
+  }
+  #but1{
+    color: aliceblue;
+    position: relative;
+    top: 330px;
+    left: 200px;
+    background-color: rgb(40, 32, 32);
+    height: 80px;
+    width: 100px;
+    border-radius: 20%;
+    font-size: 20px;
+    
+
+
+  }
+  #last{
+    height: 300px;
+    width: 2000px;
+    background-color: rgba(77, 77, 77,0.3)
+  }
+
